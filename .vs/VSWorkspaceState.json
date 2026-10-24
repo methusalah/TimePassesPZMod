@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Zomboid",
+    "\\Zomboid\\Workshop",
+    "\\Zomboid\\Workshop\\TimePasses",
+    "\\Zomboid\\Workshop\\TimePasses\\Contents",
+    "\\Zomboid\\Workshop\\TimePasses\\Contents\\mods",
+    "\\Zomboid\\Workshop\\TimePasses\\Contents\\mods\\TimePasses",
+    "\\Zomboid\\Workshop\\TimePasses\\Contents\\mods\\TimePasses\\42",
+    "\\Zomboid\\Workshop\\TimePasses\\Contents\\mods\\TimePasses\\42\\media",
+    "\\Zomboid\\Workshop\\TimePasses\\Contents\\mods\\TimePasses\\42\\media\\lua",
+    "\\Zomboid\\Workshop\\TimePasses\\Contents\\mods\\TimePasses\\42\\media\\lua\\client"
+  ],
+  "SelectedNode": "\\Zomboid\\Workshop\\TimePasses\\Contents\\mods\\TimePasses\\42\\media\\lua\\client\\TimePasses_Panel.lua",
+  "PreviewInSolutionExplorer": false
+}

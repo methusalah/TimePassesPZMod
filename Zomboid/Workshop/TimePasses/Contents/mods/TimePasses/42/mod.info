@@ -1,0 +1,4 @@
+name=Time passes...
+id=TimePasses
+description=Ce mod accelere progressivement le temps lorsque le joueur effectue des actions longues, et le remet en vitesse normale si l'action est interrompue.
+poster=poster.png
